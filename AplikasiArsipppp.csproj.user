@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Vieww\Detailpekerjaan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vieww\inputtrdok.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vieww\updatetrdok.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vieww\updatetrpcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vieww\inserttrp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vieww\buatupdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vieww\createuser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vieww\historyuser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vieww\insertdokumen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vieww\insertpekerja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vieww\insertprojek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vieww\transaksidokumen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vieww\transaksipekerjaan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vieww\updatedokumen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vieww\updatepekerja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vieww\updateprojek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vieww\updateuser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vieww\buatinsert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vieww\dokumen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vieww\Pekerjaan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vieww\project.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vieww\User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vieww\Role.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vieww\login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vieww\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
